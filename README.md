@@ -26,7 +26,7 @@ API REST em nodejs para uma aplicação de locação de filmes:
 
     #Para testar o web server utilizando container AWS use o link abaixo:
     NOTA: Link disponível entre 08:0h e 00:00h
-    http://ec2-52-67-228-154.sa-east-1.compute.amazonaws.com:3000/
+    [http://ec2-52-67-228-154.sa-east-1.compute.amazonaws.com:3000/]
 
 
 # Instruções de instalação local:
