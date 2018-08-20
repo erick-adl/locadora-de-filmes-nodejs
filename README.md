@@ -22,6 +22,13 @@ API REST em nodejs para uma aplicação de locação de filmes:
 * Docker
 * Nodemon
 
+# Aplicação ativa na AWS:
+
+    #Para testar o web server utilizando container AWS use o link abaixo:
+    NOTA: Link disponível entre 08:0h e 00:00h
+    http://ec2-52-67-228-154.sa-east-1.compute.amazonaws.com:3000/
+
+
 # Instruções de instalação local:
 
     #Para instalação local tenha nodejs  Postgre instalado com: user:postgres, password:postgres e database:postgres
