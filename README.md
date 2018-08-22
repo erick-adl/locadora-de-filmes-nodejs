@@ -22,6 +22,13 @@ API REST em nodejs para uma aplicação de locação de filmes:
 * Docker
 * Nodemon
 
+
+# Deploy in Heroku
+
+#### REQUEST
+GET: [https://pacific-taiga-27540.herokuapp.com/](https://pacific-taiga-27540.herokuapp.com/)
+
+
 # Aplicação ativa na AWS:
 
     #Para testar o web server utilizando container AWS use o link abaixo:
