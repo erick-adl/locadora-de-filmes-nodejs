@@ -26,5 +26,12 @@
     "database": "postgres",
     "host": "postgres",
     "dialect": "postgres"
+  },
+  "heroku": {
+    "username": "jdhysapfvpvhef",
+    "password": "9236683ab0717d312c3933d17c113122e686c9cdc63ce9f51a23f05d420e4da8",
+    "database": "d4rgjuml1nf2ca",
+    "host": "ec2-54-235-242-63.compute-1.amazonaws.com",
+    "dialect": "postgres"
   }
 }
